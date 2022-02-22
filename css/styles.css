@@ -1,0 +1,16 @@
+*{
+  text-align: center;
+}
+
+h2.tropical{
+  color: #f7325e;
+}
+
+.tropical{
+  color: #7dc140;
+  font-family: fantasy;
+}
+
+.popular{
+  background-color:aquamarine;
+}
